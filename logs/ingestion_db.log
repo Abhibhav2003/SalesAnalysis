@@ -1,5 +1,5 @@
-2025-07-05 13:21:19,772 - INFO - ---------- Starting Data Ingestion ----------
-2025-07-05 13:21:19,803 - INFO - Read CSV: sales.csv
-2025-07-05 13:21:20,940 - INFO - Successfully ingested table: sales
-2025-07-05 13:21:20,940 - INFO - ---------- Ingestion Complete ----------
-2025-07-05 13:21:20,940 - INFO - Total Time Taken: 0.02 minutes
+2025-07-12 16:15:11,934 - INFO - ---------- Starting Data Ingestion ----------
+2025-07-12 16:15:11,966 - INFO - Read CSV: sales.csv
+2025-07-12 16:15:12,623 - INFO - Successfully ingested table: sales
+2025-07-12 16:15:12,623 - INFO - ---------- Ingestion Complete ----------
+2025-07-12 16:15:12,623 - INFO - Total Time Taken: 0.01 minutes
